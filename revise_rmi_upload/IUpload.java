@@ -1,4 +1,4 @@
-package ontap_rmi_upload;
+package revise_rmi_upload;
 
 import java.io.IOException;
 import java.rmi.RemoteException;
